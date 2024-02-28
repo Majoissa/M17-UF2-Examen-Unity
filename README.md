@@ -1,4 +1,4 @@
-# Proyecto de Plataformas 2D en Unity
+# Examen de Plataformas 2D en Unity
 
 Este proyecto de Unity es un juego de plataformas 2D en el que he implementado varios elementos y funcionalidades siguiendo las especificaciones de las tareas asignadas.
 
